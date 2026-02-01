@@ -1,4 +1,4 @@
-public class literal {
+public class Day01Literal {
     public static void main(String[] args) {
         byte age=10;
         int age1=20;
