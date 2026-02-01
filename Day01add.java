@@ -1,7 +1,7 @@
 
 //write a java program to add tree numbers.
 
-public class add {
+public class Day01add {
     public static void main(String[] args) {
         int num1 = 4;
         int num2 = 3;
