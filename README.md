@@ -7,3 +7,4 @@ Daily java practice program from basic to advanced concept.
 3.[Literals example](Day01Literal.java)
 4.[Taking user input](Day02_TakingInpu.java)
 5.[java practice set](Day03practiceset.java)
+6.[operators](Day03operators.java)
