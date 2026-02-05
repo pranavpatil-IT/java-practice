@@ -10,3 +10,4 @@ Daily java practice program from basic to advanced concept.
 6.[operators](Day03operators.java)
 7.[operator_presedence](Day04operator_presedence.java)
 8.[data type](Day04datatype.java)
+9.[question solution](Day04solution.java)
