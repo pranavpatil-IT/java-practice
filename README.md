@@ -13,3 +13,4 @@ Daily java practice program from basic to advanced concept.
 9.[question solution](Day04solution.java)
 10.[practicese2](Day05practicese2.java)
 11.[String](Day05String.java)
+12.[StringMethod](Day05_StringMethod.java)
